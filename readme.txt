@@ -4,3 +4,4 @@ anything3
 new function
 invisible
 something
+nothing
